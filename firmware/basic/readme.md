@@ -14,6 +14,8 @@ Flashing example for this keyboard:
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
+After flashing, you may see LIBUSB_ERROR_TIMEOUT; this is normal, simply tap the reset button once afterwards (or re-plug your PCB) and the keyboard should become operational again.
+
 ## Bootloader
 
 Enter the bootloader in 3 ways:
