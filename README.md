@@ -19,3 +19,5 @@ This ran in a private run and public run by Coffee Break Keyboards in Q1 2023 an
   * As sold, bully took a 50mm 4-pin JST-SH cable. These cables are wired 1:1. I had no issues with Adafruit Qwiic JST SH cables sourced from Mouser. If you use an alternative connector on your PCB and daughterboard, you will need to ensure those cables are also 1:1.
 * PCB
   * PCB edge cuts and plate files are provided in the [./misc](./misc/) directory. An electro-capacitive (commonly known as Topre, or NIZ Plum) compatible PCB is provided by sporkus [here](https://github.com/sporkus/capybully_keyboard). An alternative PCB compatible with Cherry MX and Alps switches is provided by sporkus [here](https://github.com/sporkus/bully2040_keyboard).
+* Case feet.
+  * bully uses [SKUF feet](https://github.com/Zambumon/SKUF).
